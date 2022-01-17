@@ -8,7 +8,7 @@
     Infinite-Compute related work & things I'm passionate about.
 - 📫 You can reach me via the following:
     Personal: peytontanaka@gmail.com
-    Work: peyton-tanaka@i-c.email
+    Work: peyton@i-c.email
 
 <!---
 PeytonTanaka/PeytonTanaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
